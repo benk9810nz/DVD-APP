@@ -1,0 +1,141 @@
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+C:\Users\Ben\Documents\projects\C# Projects\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.Cache
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\Ben\Desktop\DBE\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CoreCompileInputs.cache
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+D:\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\Ben\Desktop\C# Projects\NOT DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csprojResolveAssemblyReference.cache
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.Cache
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CoreCompileInputs.cache
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\kappa\Documents\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+E:\Backup\OneDrive\Files\Documents1\C# Projects\DONE\Database\DVDApp\DVDApp\obj\Debug\DVDApp.EditConfiguration.resources
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\Desktop\DVDApp\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.EditConfiguration.resources
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\benja\Desktop\DVDApp\DVDApp\obj\Debug\DVDApp.pdb
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\DVDApp.exe.config
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\DVDApp.exe
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\DVDApp.pdb
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\Google.Protobuf.dll
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\MySql.Data.dll
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\Google.Protobuf.xml
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\bin\Debug\MySql.Data.xml
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.csprojAssemblyReference.cache
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.AddDVD.resources
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.EditConfiguration.resources
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.Form1.resources
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.Properties.Resources.resources
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.csproj.GenerateResource.cache
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.csproj.CopyComplete
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.exe
+C:\Users\benja\Documents\GitHub\DVD-APP\DVDApp\obj\Debug\DVDApp.pdb
